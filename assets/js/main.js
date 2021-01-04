@@ -26,7 +26,7 @@
 
         var scrollto = target.offset().top - scrolltoOffset;
 
-        if ($(this).attr("href") == '#header' || $(this).attr("href") == 'index.html#header') {
+        if ($(this).attr("href") == '#header' || $(this).attr("href") == 'index.php#header') {
           scrollto = 0;
         }
 
