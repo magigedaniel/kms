@@ -3,32 +3,11 @@
 
 <?php
 include 'header.php';
+include 'navheader.php';
 ?>
 
-<body>
-
-  <!-- ======= Top Bar ======= -->
-  <div id="topbar" class="d-none d-lg-flex align-items-center fixed-top topbar-inner-pages">
-    <div class="container d-flex align-items-center justify-content-between">
-      <div class="contact-info">
-        <ul>
-          <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">info@kengamassive.co.ke</a></li>
-          <li><i class="icofont-phone"></i> +254 774219492</li>
-          <li><i class="icofont-clock-time icofont-flip-horizontal"></i> Mon-Fri 8:30am - 4:45pm</li>
-          <li><i class="icofont-clock-time icofont-flip-horizontal"></i> Saturdays 8:30am - 12noon</li>
-        </ul>
-      </div>
-      <div class="cta">
-        <a href="#about" class="scrollto">JOIN US</a>
-      </div>
-    </div>
-  </div>
-
   <!-- ======= Header ======= -->
-  <?php
-  include 'navheader.php';
-  ?>
-  !-- End Header -->
+  <!-- End Header -->
 
   <main id="main">
 
@@ -212,7 +191,7 @@ include 'header.php';
       <?php
       include 'footer.php';
       ?>
-
+  </main>
 </body>
 
 </html>

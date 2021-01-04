@@ -8,7 +8,7 @@
         <nav class="nav-menu d-none d-lg-block">
             <ul>
                 <li class="active"><a href="index.php">Home</a></li>
-                <li class="drop-down"><a href="index.php">About Us</a>
+                <li class="drop-down"><a href="about.php">About Us</a>
                     <ul>
                         <li><a href="#about">Profile</a></li>
                         <li><a href="#team">Board</a></li>
@@ -22,4 +22,4 @@
         </nav><!-- .nav-menu -->
 
     </div>
-</header><
+</header>
