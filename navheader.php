@@ -3,7 +3,7 @@
 
         <!--<h1 class="logo"><a href="index.php#header" class="scrollto">Anyar</a></h1>
          Uncomment below if you prefer to use an image logo -->
-        <a href="#header" class="logo scrollto"><img src="assets/img/logo1.jpg" alt="" class="img-fluid" style="border-radius: 50%"><strong>KMS LTD</strong></a>
+        <a href="index.php" class="logo scrollto"><img src="assets/img/logo1.jpg" alt="" class="img-fluid" style="border-radius: 50%"><strong>KMS LTD</strong></a>
 
         <nav class="nav-menu d-none d-lg-block">
             <ul>
