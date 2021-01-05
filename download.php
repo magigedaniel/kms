@@ -21,58 +21,48 @@ include "navheader.php";
         </div>
     </section><!-- End Breadcrumbs -->
 
-    <!--downloads-->
-    <section id="faq" class="faq section-bg">
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
         <div class="container" data-aos="fade-up">
 
             <div class="section-title">
-                <h2>Downloads Available</h2>
+                <h3 style="color: #0a53be;">Downloads</h3>
             </div>
 
-            <div class="faq-list">
-                <ol>
-                    <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
-                        <i></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">KENGA MASSIVE SACCO BY-LAWS<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                        <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
-                            <p>
-                                <a href="assets/downloads/laws.pdf" download="KENGA MASSIVE SACCO BY LAWS">Download</a>
-                            </p>
-                        </div>
-                    </li>
+            <div class="row">
 
-                    <li data-aos="fade-up" data-aos-delay="200">
-                        <i></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">KENGA MEMBERSHIP APPLICATION FORM<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                        <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
-                            <p>
-                                <a href="assets/downloads/registration.pdf" download="KENGA MEMBERSHIP APPLICATION FORM">Download</a>
-                            </p>
-                        </div>
-                    </li>
-
-                    <li data-aos="fade-up" data-aos-delay="300">
-                        <i></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">KENGA LOAN APPLICATION FORM<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                        <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
-                            <p>
-                                <a href="assets/downloads/loan.pdf" download="KENGA LOAN APPLICATION FORM">Download</a>
-                            </p>
-                        </div>
-                    </li>
-
-                    <li data-aos="fade-up" data-aos-delay="400">
-                        <i></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">KENGA SIMPLE LOAN APPLICATION FORM<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
-                        <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
-                            <p>
-                                <a href="assets/downloads/simpleloan.pdf" download="KENGA SIMPLE LOAN APPLICATION FORM">Download</a>
-                            </p>
-                        </div>
-                    </li
-
-                </ol>
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                    <div class="icon-box">
+                        <i class="icofont-chart-bar-graph"></i>
+                        <p>Laws Governing Kenga Members.</p>
+                        <h4> <a href="assets/downloads/laws.pdf" download="Kenga members By-Laws">Download</a></h4>
+                    </div>
+                </div>
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                    <div class="icon-box">
+                        <i class="icofont-chart-bar-graph"></i>
+                        <p>Download New members Registration Forms</p>
+                        <h4> <a href="assets/downloads/registration.pdf" download="Kenga new member registration form">Download</a></h4>
+                    </div>
+                </div>
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                    <div class="icon-box">
+                        <i class="icofont-chart-bar-graph"></i>
+                        <p>Kenga Loan application form</p>
+                        <h4> <a href="assets/downloads/loan.pdf" download="Loan application form">Download</a></h4>
+                    </div>
+                </div>
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                    <div class="icon-box">
+                        <i class="icofont-chart-bar-graph"></i>
+                        <p>Kenga Simple loan pplication form</p>
+                        <h4> <a href="assets/downloads/simpleloan.pdf" download="Kenga simple loan application form">Download</a></h4>
+                    </div>
+                </div>
             </div>
 
         </div>
     </section>
-<!--End of downloads-->
 
 <?php
 include "footer.php";
