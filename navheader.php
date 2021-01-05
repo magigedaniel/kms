@@ -11,11 +11,10 @@
                 <li class="drop-down"><a href="about.php">About Us</a>
                     <ul>
                         <li><a href="about.php#about">Profile</a></li>
-                        <li><a href="about.php#team">Board</a></li>
-                        <li><a href="about.php#mambership">Membership</a></li>
+                        <li><a href="about.php#team">Management and Membership</a></li>
                     </ul>
                 <li><a href="service.php">Service Charter</a></li>
-                <li><a href="#pricing">Product and Services</a></li>
+                <li><a href="product.php">Product and Services</a></li>
                 <li><a href="index.php#contact">Contact Us</a></li>
                 <li><a href="download.php">Downloads</a></li>
             </ul>

@@ -85,9 +85,9 @@ include 'navheader.php';
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4 class="title"><a href="">Vision</a></h4>
+              <h4 class="title"><a href="">Vision Statement</a></h4>
               <p class="description">
-                  “A leading Sacco providing quality and reliable financial services to all”
+                  An all Inclusive quality financial service provider of choice
               </p>
             </div>
           </div>
@@ -95,8 +95,8 @@ include 'navheader.php';
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4 class="title"><a href="">Mission</a></h4>
-              <p class="description">To empower members economically by efficiently providing affordable financial services towards meeting their needs’’</p>
+              <h4 class="title"><a href="">Mission Statement</a></h4>
+              <p class="description">To empower members economically and socially through provision of quality, affordable and reliable financial services</p>
             </div>
           </div>
 
