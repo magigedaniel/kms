@@ -162,6 +162,7 @@ include "navheader.php";
 
 
   <!-- ======= Footer ======= -->
+  </main>
 
 </body>
 

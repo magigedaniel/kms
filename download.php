@@ -69,6 +69,7 @@ include "footer.php";
 ?>
 
     <!-- ======= Footer ======= -->
+</main>
 
     </body>
 

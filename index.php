@@ -22,6 +22,10 @@ include 'navheader.php';
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Second slide label</h5>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
                 <img src="assets/img/carol1.jpg" alt="Los Angeles" style="width:100%;">
             </div>
 
