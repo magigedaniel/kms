@@ -17,7 +17,7 @@
                 <li><a href="product.php">Product and Services</a></li>
                 <li><a href="index.php#contact">Contact Us</a></li>
                 <li><a href="download.php">Downloads</a></li>
-                <li><a href="download.php">FAQ</a></li>
+                <li><a href="FAQ.php">FAQ</a></li>
             </ul>
         </nav><!-- .nav-menu -->
 
