@@ -7,8 +7,8 @@
 
         <nav class= "nav-menu d-none d-lg-block">
             <ul>
-                <li><a href="index.php">Home</a></li>
-                <li class="drop-down"><a href="about.php">About Us</a>
+                <li><a href="index.php#Kengamassive">Home</a></li>
+                <li class="drop-down"><a href="about.php#About-Us">About Us</a>
                     <ul>
                         <li><a href="about.php#about">Profile</a></li>
                         <li><a href="about.php#team">Management and Membership</a></li>
@@ -16,8 +16,8 @@
                 <li><a href="service.php">Service Charter</a></li>
                 <li><a href="product.php">Product and Services</a></li>
                 <li><a href="index.php#contact">Contact Us</a></li>
-                <li><a href="download.php">Downloads</a></li>
-                <li><a href="FAQ.php">FAQ</a></li>
+                <li><a href="download.php#download">Downloads</a></li>
+                <li><a href="FAQ.php#faq-quiz">FAQ</a></li>
             </ul>
         </nav><!-- .nav-menu -->
 
