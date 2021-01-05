@@ -53,7 +53,7 @@
             </ul>
         </div>
         <div class="cta">
-            <a href="#contact" class="scrollto">JOIN US</a>
+            <a href="assets/downloads/registration.pdf" target="_blank" class="scrollto">JOIN US</a>
         </div>
     </div>
 </div>

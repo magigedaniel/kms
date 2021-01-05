@@ -261,12 +261,143 @@ include 'navheader.php';
 
                     <li data-aos="fade-up" data-aos-delay="500">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
-                                                                       data-bs-target="#faq-list-16" class="collapsed">Can
-                            a member use dividends to clear loans? <i class="bx bx-chevron-down icon-show"></i><i
+                                                                       data-bs-target="#faq-list-16" class="collapsed">What is the role of a guarantor? <i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-16" class="collapse" data-bs-parent=".faq-list">
                             <p>
-                                Yes by communicating the same in writing
+                                •	Guarantors are jointly (together) and severally (individually) liable for the repayment of a loan in the event of the borrower’s default.
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-17" class="collapsed">What are the rights of a guarantor?<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-17" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                i. The right to obtain a copy of the letter of guarantee or contract of guarantee and any other documents in relation to the loan transaction<br>
+                                ii. The right to the information on the outstanding balance of the account of the borrower with the Society subject to the borrowers consent.<br>
+                                iii. The right to call upon the borrower to pay off the loan to release him from all his liabilities under the guarantee. This right can be exercised at anytime and even before the Society has called upon the borrower to pay the debt.<br>
+                                iv. The right to be indemnified by the borrower for any payment made to the Society. This means that he can sue the borrower for the amount that he has paid to the Sacco.<br>
+
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-18" class="collapsed">What does a guarantor needs to know about the loan he/she is guaranteeing?<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-18" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                	Loan amount<br>
+                                	Repayment period<br>
+                                	Applicant source of income<br>
+                                	Applicants term of employment<br>
+                                	Applicants retirement date<br>
+                                	Applicant’s contact details<br>
+                                	Any other details relating to the applicants character<br>
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-19" class="collapsed">Can one clear a loan in full before repayment is over?<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-19" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                Yes, that is allowed and does not attract early clearance charge.
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-20" class="collapsed">How does one benefit from the benevolent fund<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-20" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                Members who contribute to the benevolent fund kitty are paid ksh. 10,000 and ksh.15, 000 upon losing their biological parents and a member of their nuclear family (spouse or child) respectively, however, in a case of 2 and more membership the family is jointly given ksh.20,000
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-21" class="collapsed">What happens in case a member of the SACCO dies? <i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-21" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                In the event of death of a member the next of kin is paid 100% of members’ savings
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-22" class="collapsed">When is the deadline for monthly contributions?<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-22" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                The deadline for monthly contribution is 10th of every month.
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-23" class="collapsed">How do i get loan application form or membership registration form?<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-23" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                By simply going to the downloads section of this website you can download the 'loan application or membership registration form, fill it up, send it via our email or hand deliver at our office. Once your form is received an sms will be sent to you as acknowledgement.
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-24" class="collapsed">What is SASRA? <i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-24" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                SASRA is an abbreviation for the Sacco Societies Regulatory Authority. This is the institution mandated by law to regulate the activities of Saccos so as to observe prudential financial standards. In short it acts like Central Bank which monitors banking activities in the country.
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-25" class="collapsed">How does SASRA affect our operations?<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-25" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                All FOSA operating Saccos are monitored by SASRA, they give monthly reports to SASRA and they are expected to operate under very strict financial rules. KENGA is soon joining this league.
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-26" class="collapsed">What is FOSA?<i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-26" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                FOSA stands for Front Office Services Activities .This is a Section within A SACCO through which members can open and operate FOSA savings accounts and get loan facilities. FOSA operates like a bank. All payments to members are made through FOSAs (e.g Loans, Dividends)
+                            </p>
+                        </div>
+                    </li>
+
+                    <li data-aos="fade-up" data-aos-delay="500">
+                        <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
+                                                                       data-bs-target="#faq-list-27" class="collapsed">Can I transfer my deposits from another Sacco?  <i class="bx bx-chevron-down icon-show"></i><i
+                                    class="bx bx-chevron-up icon-close"></i></a>
+                        <div id="faq-list-27" class="collapse" data-bs-parent=".faq-list">
+                            <p>
+                                •	One can transfer his deposits from another Sacco to Kenga Massive Sacco.<br>
+                                •	A member who transfers directly from another Sacco is immediately eligible to all benefits of a full member i.e. the waiting period to access benefits is waived.<br>
                             </p>
                         </div>
                     </li>

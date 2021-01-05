@@ -31,28 +31,28 @@ include "navheader.php";
 
             <div class="row">
 
-                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" >
                     <div class="icon-box">
                         <i class="icofont-chart-bar-graph"></i>
                         <p>Laws Governing Kenga Members.</p>
                         <h4> <a href="assets/downloads/laws.pdf" download="Kenga members By-Laws">Download</a></h4>
                     </div>
                 </div>
-                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" >
                     <div class="icon-box">
                         <i class="icofont-chart-bar-graph"></i>
-                        <p>Download New members Registration Forms</p>
+                        <p>New members Registration Forms</p>
                         <h4> <a href="assets/downloads/registration.pdf" download="Kenga new member registration form">Download</a></h4>
                     </div>
                 </div>
-                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" >
                     <div class="icon-box">
                         <i class="icofont-chart-bar-graph"></i>
                         <p>Kenga Loan application form</p>
                         <h4> <a href="assets/downloads/loan.pdf" download="Loan application form">Download</a></h4>
                     </div>
                 </div>
-                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" >
                     <div class="icon-box">
                         <i class="icofont-chart-bar-graph"></i>
                         <p>Kenga Simple loan pplication form</p>
