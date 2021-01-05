@@ -179,7 +179,6 @@ include 'navheader.php';
       </div>
     </section><!-- End Services Section -->
 
-      <!--portfolio section-->
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container" data-aos="fade-up">
@@ -189,53 +188,183 @@ include 'navheader.php';
         </div>
 
         <div class="faq-list">
-          <ul>
+          <ol>
             <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">How can I join Kenga Massive? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">How can one become a member?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                    Like any other co-operative society, anyone can become a member by virtue of buying shares and subscribing for a nominal deposit. The entry fee is ksh.500.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">How do I benefit from shares and savings (deposits)? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                    You are guaranteed favorable and competitive interest rate on loans and dividend every year. The deposits enable you to access credit facilities, elect or be elected to the Board of directors
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">What are benefits of joining the SACCO<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                    •	You will enjoy various loan products that will enable you to grow financially and achieve your development goals.<br>
+                    •	You will have an opportunity to save money for future use<br>
+                    •	You will be paid dividends on your shares every year as the Sacco makes profit<br>
+                    •	The Sacco will easily come to your aid once you have an emergency case.<br>
+                    •	As a member of the benevolent fund kitty you will be supported in case of bereavement
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">What do I need when applying for a loan? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
+                    •	Fully completed loan application form<br>
+                    •	Minimum two guarantors who must be active members and have contributed deposits for at least six months. Guarantors’ and applicants shares MUST be equal to or more than the loan applied for.<br>
+                    •	Employer MUST sign and rubber stamp (for employed people borrowing against their pay slips) the application form.<br>
+                    •	Outstanding loan by the applicant MUST be cleared before a loan of the same kind is approved.<br>
+                    •	A most current pay slip certified by the applicant’s employer’s payroll officer, MUST be attached to the application.<br>
+                    •	A copy of an acceptable form of identification (National ID/Valid Passport) MUST be attached to the application<br>
+                    •	Must have been an active member for at least five months<br>
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="500">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">What security measures has the Sacco put in place to ensure it’s stable and competitive? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                    The Board and Management are managing the Sacco as per the Co-operative societies ACT, Rules and Sacco By –Laws. The Sacco has implemented the use of Corporate Governance and Code of Ethics hence stability is guaranteed. The Sacco will continue holding AGM’S yearly where reports and accounts will be presented to the members.
                 </p>
               </div>
             </li>
 
-          </ul>
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-6" class="collapsed">What do I need to do when withdrawing from the society? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-6" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          •	A member needs to inform the society in writing of his intention to withdraw.<br>
+                          •	A notice of sixty days is required in case of any refunds due to the member.<br>
+                          •	A member needs to inform all loanees that he/she has guaranteed to seek alternative guarantors
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-7" class="collapsed">Who is eligible to access Kenga Massive Sacco Credit facilities? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-7" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          Members admitted in accordance with the membership policy.
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-8" class="collapsed">When does a member become eligible for a loan?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-8" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          A member becomes eligible after a consistent minimum membership period of three months and on fulfilling all requirements of a specific loan product.
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-9" class="collapsed">What is the difference between Capital Shares, Deposits and Savings? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-9" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                         <strong>Capital Shares:</strong><br>
+                          	The amount representing a member’s portion in the equity of the society as a co-owner<br>
+                          	 Shares are not used to determine the eligibility of a borrower or a guarantor.<br>
+                          	Shares are not withdrawable but are transferable.<br>
+
+                          <strong>Deposits</strong><br>
+
+                          	Every member must make regular deposits towards member deposits (normal shares) in accordance with the Savings policy.<br>
+                          	They are not withdrawn in part or in full as long as a person is a member of the Sacco.<br>
+                          	These deposits may be used to determine the eligibility of a borrower or a guarantor.<br>
+                          <i>Savings (coming soon)</i><br>
+                          In addition to shares and deposits a member may invest in a saving account ( once approved by SASRA)
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-10" class="collapsed">Does interest charged by the Sacco fluctuate during the term of the loan? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-10" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          No, any amendments on interest will affect new applications only.
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-11" class="collapsed">Who decides on what interest to charge? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-11" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          Interests on loans are reviewed from time to time by the BOD on recommendation of Management.
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-12" class="collapsed">Can a member capitalize on dividends to boost ones shares? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-12" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          Yes, that is allowed. All that one needs to do is to instruct in writing
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-13" class="collapsed">Can a member use dividends to clear loans? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-13" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          Yes by communicating the same in writing
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-14" class="collapsed">What are the acceptable Securities for a loan? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-14" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          •	Guarantors<br>
+                          •	Deposits in the SACCO<br>
+                          •	Land<br>
+                          •	Buildings<br>
+                          •	Guarantees<br>
+                          •	Corporate guarantee<br>
+                          •	 Share certificates<br>
+                          •	Vehicles<br>
+                          •	Endowment Insurance policies<br>
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-13" class="collapsed">Can a member use dividends to clear loans? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-13" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          Yes by communicating the same in writing
+                      </p>
+                  </div>
+              </li>
+
+              <li data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-13" class="collapsed">Can a member use dividends to clear loans? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <div id="faq-list-13" class="collapse" data-bs-parent=".faq-list">
+                      <p>
+                          Yes by communicating the same in writing
+                      </p>
+                  </div>
+              </li>
+
+          </ol>
         </div>
 
       </div>
