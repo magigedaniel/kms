@@ -316,6 +316,34 @@ include 'navheader.php';
 
                           </article>
                       </div>
+
+                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+                          <article class="entry">
+
+                              <div class="entry-img">
+                                  <img src="assets/img/range.jpg" alt="" class="img-fluid">
+                              </div>
+
+                              <h2 class="entry-title">
+                                  Range Mwita
+                              </h2>
+
+                              <div class="entry-meta">
+                                  <h4 class="d-flex align-items-center">Supervisory Committee</h4>
+                                  </ul>
+                              </div>
+
+                              <div class="entry-content">
+                                  <p>
+                                      Range Mwita is a program management professional, with commendable working experience in the NGO sector in Kenya. Currently, Range serves as the Deputy Executive Director and Head of Programs at the Centre for Multiparty Democracy (CMD-Kenya). His expertise is in democratic governance, socio-economic development issues, research and capacity building of communities and groups. Range holds a Master of Arts (Sociology) from the University of Nairobi. He also holds a Diploma in Project Management from Nairobi Aviation College. He is a certified Monitoring and Evaluation professional from the Kenya Institute of Management (KIM).
+
+                                  </p>
+                              </div>
+
+                          </article>
+                      </div>
+
+
                       <h3 style="color: #0a53be; text-align: center">
                           Kenga Massive Savings and Credit Co-operative Society Limited
                       </h3>
