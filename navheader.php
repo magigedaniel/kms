@@ -1,9 +1,9 @@
 <header id="header" class="fixed-top header-inner-pages">
     <div class="container d-flex align-items-center justify-content-between">
 
-        <!--<h1 class="logo"><a href="index.php#header" class="scrollto">Anyar</a></h1>
-         Uncomment below if you prefer to use an image logo -->
-        <a href="index.php" class="logo scrollto"><img src="assets/img/logo1.jpg" alt="" class="img-fluid" style="border-radius: 50%"><strong>KMS LTD</strong></a>
+        <h1 class=""><a href="index.php#header" class=""><img src="assets/img/logo2.jpg" style="border-radius: 50%; height: 80px; width: 80px"></a></h1>
+       <!--  Uncomment below if you prefer to use an image logo -->
+       <!-- <a href="index.php" class="logo scrollto"><img src="assets/img/logo1.jpg" alt="" class="img-fluid" style="border-radius: 50%; height: 150px;"><strong>KMS LTD</strong></a>-->
 
         <nav class= "nav-menu d-none d-lg-block">
             <ul>

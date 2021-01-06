@@ -46,7 +46,7 @@
     <div class="container d-flex align-items-center justify-content-between">
         <div class="contact-info">
             <ul>
-                <li><i class="icofont-envelope"></i><a href="mailto:contact@example.com">info@kengamassive.co.ke</a></li>
+                <li><i class="icofont-envelope"></i><a href="mailto:info@kengamassive.co.ke">info@kengamassive.co.ke</a></li>
                 <li><i class="icofont-phone"></i> +254 774219492</li>
                 <li><i class="icofont-clock-time icofont-flip-horizontal"></i> Mon-Fri 8:30am - 4:45pm</li>
                 <li><i class="icofont-clock-time icofont-flip-horizontal"></i> Saturdays 8:30am - 12noon</li>
