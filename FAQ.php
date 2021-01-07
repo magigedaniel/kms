@@ -26,12 +26,16 @@ include 'navheader.php';
                     <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
                                                                        data-bs-target="#faq-list-1">How can one become a
-                            member?<i class="bx bx-chevron-down icon-show"></i><i
+                            member/make payment?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
                         <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                             <p>
                                 Like any other co-operative society, anyone can become a member by virtue of buying
-                                shares and subscribing for a nominal deposit. The entry fee is ksh.500.
+                                shares and subscribing for a nominal deposit. The entry fee is ksh.500.<br><br>
+                                Payments are paid direct to the Sacco KCB account no. 1272706664 using:<br><br>
+                                i. Mpesa pay bill no 522522 followed by account number and amount or<br>
+                                ii. Direct cash deposit into the account<br>
+                                iii. Bank transfer into the account<br>
                             </p>
                         </div>
                     </li>

@@ -41,21 +41,14 @@ include "navheader.php";
                 <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" >
                     <div class="icon-box">
                         <i class="icofont-chart-bar-graph"></i>
-                        <p>New members Registration Forms</p>
+                        <p>New members Registration Forms.</p>
                         <h4> <a href="assets/downloads/registration.pdf" download="Kenga new member registration form">Download</a></h4>
                     </div>
                 </div>
                 <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" >
                     <div class="icon-box">
                         <i class="icofont-chart-bar-graph"></i>
-                        <p>Kenga Loan application form</p>
-                        <h4> <a href="assets/downloads/loan.pdf" download="Loan application form">Download</a></h4>
-                    </div>
-                </div>
-                <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0" >
-                    <div class="icon-box">
-                        <i class="icofont-chart-bar-graph"></i>
-                        <p>Kenga Simple loan pplication form</p>
+                        <p>Kenga Simple loan pplication form.</p>
                         <h4> <a href="assets/downloads/simpleloan.pdf" download="Kenga simple loan application form">Download</a></h4>
                     </div>
                 </div>

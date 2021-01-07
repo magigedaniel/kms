@@ -10,7 +10,6 @@ include 'navheader.php';
 
   <!-- ======= Hero Section ======= -->
 <div class="">
-    <h2>Carousel Example</h2>
     <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2000">
         <!-- Indicators -->
         <ol class="carousel-indicators">

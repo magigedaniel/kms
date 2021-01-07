@@ -50,7 +50,7 @@ include 'navheader.php';
           We look forward to talking to SASRA to allow us to become a deposit taking Sacco.
 
             </p>
-            <a href="index.php#contact" class="btn-learn-more">Join US</a>
+            <a href="assets/downloads/registration.pdf" target="_blank" class="btn-learn-more">Join US</a>
           </div>
         </div>
 
@@ -76,9 +76,14 @@ include 'navheader.php';
               The highest decision making organ of the Sacco is the Annual General Meeting (AGM) which elects seven (7) officials from amongst the members to sit in the Board of Directors and an oversight (Supervisory) Committee of three (3) members. The board is the governing body of the Sacco and includes the Chairman, Vice chairman, Treasurer and Honorary Secretary who are elected by the board from amongst the members of the board. Members of the board hold office for a period of three (3) years with one-third of the board members retiring every year but are eligible for re-election. There is a Nominating Committee to vet and clear the prospective candidates for elections.
               <br> <br>The BOD operates through specialized sub-committees responsible for various society activities as under:-
           </p>
-          <h4 style="color: #0a53be">
-              Supervisory Committee
+          <h4 style="color: #0a53be; text-align: center">
+              SUPERVISORY COMMITTEE
           </h4>
+          <p>
+              i.	Range Mwita<br>
+              ii.	Zachary Masinyo<br>
+              iii.	Eunice Chagoche<br>
+          </p>
           <p>
               The Supervisory Committee consists of three members who must not be employees of the Society's or serving on the Management Committee or any other Committee of the Society.<br><br>
               The Supervisory Committee is responsible for the Society's compliance and internal control and oversight. It is also responsible for the truth and accuracy of the Society's financial condition, and for making sure that the Society's administrative practices and procedures are adequate to safeguard the members' and the Society's rights and interest.
@@ -89,16 +94,21 @@ include 'navheader.php';
               • Writing periodic report to be tabled at board meetings<br>
               • Presenting its reports to general meeting<br>
           </p>
+
+          <h3 style="color: #0a53be; text-align: center">
+              Committees of the Board of directors
+          </h3>
+
           <h4 style="color: #0a53be">
-              Finance and Administration Committee
+              i.    Finance and Administration Committee
           </h4>
           <p>
-              FINAD Committee duties are to:-<br>
+              Finance Committee duties are to:-<br>
               • Review and make recommendations to the board on the financial plans of the Sacco and ensure their adequacy and soundness in providing for the Sacco Society current operations and long term stability.<br>
               • Review, discuss and make recommendations to the board concerning significant financial planning, management and reporting issues of the Sacco society<br>
           </p>
           <h4 style="color: #0a53be">
-              Credit Committee
+              ii.   Credit Committee
           </h4>
           <p>
               The Credit Committee holds such meetings as the business of the Society may reasonably require.<br>
@@ -107,7 +117,7 @@ include 'navheader.php';
               • Ensure that the problem in loan accounts are adequately identified and classified as prescribed in the Regulations.<br>
           </p>
           <h4 style="color: #0a53be">
-              Education Committee
+              iii.  Education Committee
           </h4>
           <p>
               Education committee duties among others are:<br>
@@ -115,7 +125,7 @@ include 'navheader.php';
               • Monitor implementation of educational programs formulated to ensure that the members and the board are well trained and prepared for the tasks they are entrusted with.<br>
           </p>
           <h4 style="color: #0a53be">
-              Audit Committee
+              iv.   Audit Committee
           </h4>
           <p>
               The audit committee has a duty to:<br>
@@ -134,7 +144,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/Masaga.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/Masaga1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -161,7 +171,59 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/tabitha.jpg" height="250px" width="250px" alt="" class="img-fluid">
+                                  <img src="assets/img/zainabu1.jpg" alt="" class="img-fluid">
+                              </div>
+
+                              <h2 class="entry-title">
+                                  Pst. Zainabu Gati
+                              </h2>
+
+                              <div class="entry-meta">
+                                  <h4 class="d-flex align-items-center">Vice-Chairman</h4>
+                                  </ul>
+                              </div>
+
+                              <div class="entry-content">
+                                  <p>
+                                      Pastor Zainabu Gati is an excellent leader with experience in working with the government and the community, She holds  a bachelor of education degree and she is currently working with the county of Migori government as an administrator and serves as a pastor at PEFA kegonga church.
+
+                                  </p>
+                              </div>
+
+                          </article>
+                      </div>
+
+                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+                          <article class="entry">
+
+                              <div class="entry-img">
+                                  <img src="assets/img/simon1.jpg" alt="" class="img-fluid">
+                              </div>
+
+                              <h2 class="entry-title">
+                                  Mr. Simon Marwa Nokwi
+                              </h2>
+
+                              <div class="entry-meta">
+                                  <h4 class="d-flex align-items-center">Honorary Secretary</h4>
+                                  </ul>
+                              </div>
+
+                              <div class="entry-content">
+                                  <p>
+                                      Mr. Simon Maroa is a seasoned leader with over 10 years experience working a planning officer with the government, both national and county. He currently works with the county government of Migori as adevelopment planning officer, He holds a Bachelor of arts degree in education ( mathematics and economics) and a masters degree in economics from the university of Nairobi.
+
+                                  </p>
+                              </div>
+
+                          </article>
+                      </div>
+
+                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+                          <article class="entry">
+
+                              <div class="entry-img">
+                                  <img src="assets/img/tabitha1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -188,7 +250,33 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/julius.jpg" width="250px" height="250px" alt="" class="img-fluid">
+                                  <img src="assets/img/range1.jpg" alt="" class="img-fluid">
+                              </div>
+
+                              <h2 class="entry-title">
+                                  Range Mwita
+                              </h2>
+
+                              <div class="entry-meta">
+                                  <h4 class="d-flex align-items-center">Supervisory Committee</h4>
+                                  </ul>
+                              </div>
+
+                              <div class="entry-content">
+                                  <p>
+                                      Range Mwita is a program management professional, with commendable working experience in the NGO sector in Kenya. Currently, Range serves as the Deputy Executive Director and Head of Programs at the Centre for Multiparty Democracy (CMD-Kenya). His expertise is in democratic governance, socio-economic development issues, research and capacity building of communities and groups. Range holds a Master of Arts (Sociology) from the University of Nairobi. He also holds a Diploma in Project Management from Nairobi Aviation College. He is a certified Monitoring and Evaluation professional from the Kenya Institute of Management (KIM).
+
+                                  </p>
+                              </div>
+
+                          </article>
+                      </div>
+
+                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+                          <article class="entry">
+
+                              <div class="entry-img">
+                                  <img src="assets/img/julius1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -215,7 +303,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/robert.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/robert1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -243,59 +331,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/zainabu.jpg" alt="" class="img-fluid">
-                              </div>
-
-                              <h2 class="entry-title">
-                                  Pst. Zainabu Gati
-                              </h2>
-
-                              <div class="entry-meta">
-                                  <h4 class="d-flex align-items-center">Vice-Chairman</h4>
-                                  </ul>
-                              </div>
-
-                              <div class="entry-content">
-                                  <p>
-                                      Pastor Zainabu Gati is an excellent leader with experience in working with the government and the community, She holds  a bachelor of education degree and she is currently working with the county of Migori government as an administrator and serves as a pastor at PEFA kegonga church.
-
-                                  </p>
-                              </div>
-
-                          </article>
-                      </div>
-
-                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-                          <article class="entry">
-
-                              <div class="entry-img">
-                                  <img src="assets/img/simon.jpg" alt="" class="img-fluid">
-                              </div>
-
-                              <h2 class="entry-title">
-                                  DMr. Simon Marwa Nokwi
-                              </h2>
-
-                              <div class="entry-meta">
-                                  <h4 class="d-flex align-items-center">Honorary Secretary</h4>
-                                  </ul>
-                              </div>
-
-                              <div class="entry-content">
-                                  <p>
-                                      Mr. Simon Maroa is a seasoned leader with over 10 years experience working a planning officer with the government, both national and county. He currently works with the county government of Migori as adevelopment planning officer, He holds a Bachelor of arts degree in education ( mathematics and economics) and a masters degree in economics from the university of Nairobi.
-
-                                  </p>
-                              </div>
-
-                          </article>
-                      </div>
-
-                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-                          <article class="entry">
-
-                              <div class="entry-img">
-                                  <img src="assets/img/Nyangi.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/Nyangi1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -321,21 +357,21 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/range.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/zachary1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
-                                  Range Mwita
+                                  Mr Zachary Masinyo
                               </h2>
 
                               <div class="entry-meta">
-                                  <h4 class="d-flex align-items-center">Supervisory Committee</h4>
+                                  <h4 class="d-flex align-items-center">Member</h4>
                                   </ul>
                               </div>
 
                               <div class="entry-content">
                                   <p>
-                                      Range Mwita is a program management professional, with commendable working experience in the NGO sector in Kenya. Currently, Range serves as the Deputy Executive Director and Head of Programs at the Centre for Multiparty Democracy (CMD-Kenya). His expertise is in democratic governance, socio-economic development issues, research and capacity building of communities and groups. Range holds a Master of Arts (Sociology) from the University of Nairobi. He also holds a Diploma in Project Management from Nairobi Aviation College. He is a certified Monitoring and Evaluation professional from the Kenya Institute of Management (KIM).
+                                      Mr Zachary Masinyo is an experienced leader who has served the society in many areas including school administration and church administration. He holds a diploma in education from the East African University( TEU). He has served as a secretary to the Church Board for more than six years and he is currently a teacher and an administrator.
 
                                   </p>
                               </div>

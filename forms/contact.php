@@ -37,7 +37,5 @@
   $contact->add_message( $_POST['email'], 'Email');
   $contact->add_message( $_POST['message'], 'Message', 10);
 
-  $contact->honeypot = $_POST['first_name'];
-
   echo $contact->send();
 ?>
