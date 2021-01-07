@@ -76,7 +76,7 @@ include 'navheader.php';
               The highest decision making organ of the Sacco is the Annual General Meeting (AGM) which elects seven (7) officials from amongst the members to sit in the Board of Directors and an oversight (Supervisory) Committee of three (3) members. The board is the governing body of the Sacco and includes the Chairman, Vice chairman, Treasurer and Honorary Secretary who are elected by the board from amongst the members of the board. Members of the board hold office for a period of three (3) years with one-third of the board members retiring every year but are eligible for re-election. There is a Nominating Committee to vet and clear the prospective candidates for elections.
               <br> <br>The BOD operates through specialized sub-committees responsible for various society activities as under:-
           </p>
-          <h4 style="color: #0a53be; text-align: center">
+          <h4 style="color: #0a53be">
               SUPERVISORY COMMITTEE
           </h4>
           <p>
@@ -95,7 +95,8 @@ include 'navheader.php';
               • Presenting its reports to general meeting<br>
           </p>
 
-          <h3 style="color: #0a53be; text-align: center">
+
+          <h3 style="color: #0a53be">
               Committees of the Board of directors
           </h3>
 
@@ -144,7 +145,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/Masaga1.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/masaga1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -331,7 +332,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/Nyangi1.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/nyangi1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -380,7 +381,7 @@ include 'navheader.php';
                       </div>
 
 
-                      <h3 style="color: #0a53be; text-align: center">
+                      <h3 style="color: #0a53be">
                           Kenga Massive Savings and Credit Co-operative Society Limited
                       </h3>
                       <h4 style="color: #0a53be">
@@ -437,9 +438,9 @@ include 'navheader.php';
               •	Boda Boda sector<br>
           </p>
 
-          <h2 style="color: #0a53be; text-align: center">
+          <h3 style="color: #0a53be">
               Become a Member.
-          </h2>
+          </h3>
           <i style="color: #0a58ca">
               Member Deposits (Non- withdrawable shares)
           </i>

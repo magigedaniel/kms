@@ -21,16 +21,17 @@ include 'navheader.php';
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src="assets/img/carol1.jpg" alt="Los Angeles" style="width:100%;">
+                <img src="assets/img/carol1.jpg" alt="kengamassive" style="width:100%;">
             </div>
 
             <div class="item">
-                <img src="assets/img/carol2.jpg" alt="Chicago" style="width:100%;">
+                <img src="assets/img/carol3.jpg" alt="kengamassive" style="width:100%;">
             </div>
 
             <div class="item">
-                <img src="assets/img/carol3.jpg" alt="New york" style="width:100%;">
+                <img src="assets/img/carol4.jpg" alt="Kengamassive" style="width:100%;">
             </div>
+
         </div>
 
         <!-- Left and right controls -->
@@ -159,7 +160,7 @@ include 'navheader.php';
           <h2>Contact Us</h2>
         </div>
 
-        <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
+        <div class="" data-aos="fade-left" data-aos-delay="100">
 
           <div class="col-lg-5">
             <div class="info">
@@ -172,7 +173,7 @@ include 'navheader.php';
               <div class="email">
                 <i class="icofont-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@kengamassive.co.ke</p>
+                <p><a href="mailto:info@kengamassive.co.ke">info@kengamassive.co.ke</a></p>
               </div>
 
               <div class="phone">
@@ -182,41 +183,6 @@ include 'navheader.php';
               </div>
 
             </div>
-
-          </div>
-
-          <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
-
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
-                  <div class="validate"></div>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
-                <div class="validate"></div>
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
-                <div class="validate"></div>
-              </div>
-              <div class="mb-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-                <div class="form-group d-none">
-                  <input type="text" class="form-control" name="first_name">
-                  <div class="validate"></div>
-                </div>
-              </div>
-              <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
 
           </div>
 

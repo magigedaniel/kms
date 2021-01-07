@@ -18,21 +18,22 @@ include "navheader.php";
 
         </div>
     </section><!-- End Breadcrumbs -->
+    <div class="container">
     <h2 style="color: #0a53be; text-align: center">
         Our range of products and services
     </h2>
 
     <div class="container">
     <p>
-        <strong>
-            FOSA Services<br>
-        </strong>
+        <h4 style="color: #0a58ca">
+            FOSA Services
+        </h4>
         Coming soon...
     </p>
     <p>
-        <strong>
-            BOSA Services<br>
-        </strong>
+        <h5 style="color: #0a58ca">
+            BOSA Services
+        </h5>
         Personal/ normal loan<br>
         Jikuze Loan (Asset Financing)<br>
         Mshahara Loan<br>
@@ -41,23 +42,24 @@ include "navheader.php";
         Education Loan<br>
     </p>
     <p>
-        <strong>
-            Our Service Centres (Points)<br>
-        </strong>
+        <h5 style="color: #0a58ca">
+            Our Service Centers (Points)
+        </h5>
         Kegonga  (Head Office)
     </p>
     <p>
-        <strong>
-            Coming soon:<br>
-        </strong>
-        Kehancha Branch<br>
-        Isebania Branch<br>
-        Mabera Branch<br>
-        Ntimaru Branch<br>
+        <h5 style="color: #0a58ca">
+            Coming Soon
+        </h5>
+        - Kehancha Branch<br>
+        - Isebania Branch<br>
+        - Mabera Branch<br>
+        - Ntimaru Branch<br>
     </p>
+    </div>
 
         <div class="container">
-            <h3 style="color: #0a58ca; text-align: center">
+            <h3 style="color: #0a58ca">
                 Our Products
             </h3>
             <h5 style="color: #0f5132">
@@ -90,16 +92,16 @@ include "navheader.php";
                 - Free two weeks Business skills training
             </p>
 
-            <strong>
-                DEPARTMENTS
-            </strong>
+            <h3 style="color: #0a58ca">
+                Departments
+            </h3>
             <p>
-            Accounts and finance<br>
-            Administration department<br>
-            Credit department<br>
-            Audit department<br>
-            Marketing dept<br>
-            ICT dept
+            - Accounts and finance<br>
+            - Administration department<br>
+            - Credit department<br>
+            - Audit department<br>
+            - Marketing dept<br>
+            - ICT dept
             </p>
 
         </div>

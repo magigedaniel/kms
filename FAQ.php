@@ -23,7 +23,7 @@ include 'navheader.php';
 
             <div class="faq-list">
                 <ol>
-                    <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="100">
+                    <li data-aos="fade-up" data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse"
                                                                        data-bs-target="#faq-list-1">How can one become a
                             member/make payment?<i class="bx bx-chevron-down icon-show"></i><i
@@ -41,7 +41,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="200">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-2" class="collapsed">How
                             do I benefit from shares and savings (deposits)? <i
@@ -55,7 +55,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="300">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-3" class="collapsed">What
                             are benefits of joining the SACCO<i class="bx bx-chevron-down icon-show"></i><i
@@ -72,7 +72,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="400">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-4" class="collapsed">What
                             do I need when applying for a loan? <i class="bx bx-chevron-down icon-show"></i><i
@@ -96,7 +96,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-5" class="collapsed">What
                             security measures has the Sacco put in place to ensure it’s stable and competitive? <i
@@ -111,7 +111,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-6" class="collapsed">What
                             do I need to do when withdrawing from the society? <i
@@ -126,7 +126,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-7" class="collapsed">Who
                             is eligible to access Kenga Massive Sacco Credit facilities? <i
@@ -138,7 +138,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-8" class="collapsed">When
                             does a member become eligible for a loan?<i class="bx bx-chevron-down icon-show"></i><i
@@ -151,7 +151,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-9" class="collapsed">What
                             is the difference between Capital Shares, Deposits and Savings? <i
@@ -179,7 +179,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-10" class="collapsed">Does
                             interest charged by the Sacco fluctuate during the term of the loan? <i
@@ -191,7 +191,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-11" class="collapsed">Who
                             decides on what interest to charge? <i class="bx bx-chevron-down icon-show"></i><i
@@ -204,7 +204,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-12" class="collapsed">Can
                             a member capitalize on dividends to boost ones shares? <i
@@ -216,7 +216,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-13" class="collapsed">Can
                             a member use dividends to clear loans? <i class="bx bx-chevron-down icon-show"></i><i
@@ -228,7 +228,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-14" class="collapsed">What
                             are the acceptable Securities for a loan? <i class="bx bx-chevron-down icon-show"></i><i
@@ -248,7 +248,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-15" class="collapsed">Who
                             is eligible to be a guarantor? <i class="bx bx-chevron-down icon-show"></i><i
@@ -264,7 +264,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-16" class="collapsed">What is the role of a guarantor? <i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -275,7 +275,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-17" class="collapsed">What are the rights of a guarantor?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -290,7 +290,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-18" class="collapsed">What does a guarantor needs to know about the loan he/she is guaranteeing?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -307,7 +307,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-19" class="collapsed">Can one clear a loan in full before repayment is over?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -318,7 +318,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-20" class="collapsed">How does one benefit from the benevolent fund<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -329,7 +329,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-21" class="collapsed">What happens in case a member of the SACCO dies? <i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -340,7 +340,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-22" class="collapsed">When is the deadline for monthly contributions?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -351,7 +351,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-23" class="collapsed">How do i get loan application form or membership registration form?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -362,7 +362,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-24" class="collapsed">What is SASRA? <i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -373,7 +373,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-25" class="collapsed">How does SASRA affect our operations?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -384,7 +384,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-26" class="collapsed">What is FOSA?<i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -395,7 +395,7 @@ include 'navheader.php';
                         </div>
                     </li>
 
-                    <li data-aos="fade-up" data-aos-delay="500">
+                    <li data-aos="fade-up" data-aos-delay="">
                         <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse"
                                                                        data-bs-target="#faq-list-27" class="collapsed">Can I transfer my deposits from another Sacco?  <i class="bx bx-chevron-down icon-show"></i><i
                                     class="bx bx-chevron-up icon-close"></i></a>
@@ -406,93 +406,12 @@ include 'navheader.php';
                             </p>
                         </div>
                     </li>
-
                 </ol>
             </div>
 
         </div>
     </section><!-- End Frequently Asked Questions Section -->
 
-    <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact">
-        <div class="container" data-aos="fade-up">
-
-            <div class="section-title">
-                <h2>Contact Us</h2>
-            </div>
-
-            <div class="row mt-1 d-flex justify-content-end" data-aos="fade-right" data-aos-delay="100">
-
-                <div class="col-lg-5">
-                    <div class="info">
-                        <div class="address">
-                            <i class="icofont-google-map"></i>
-                            <h4>Location:</h4>
-                            <p>Migori county, Kuria-East. Kegonga</p>
-                        </div>
-
-                        <div class="email">
-                            <i class="icofont-envelope"></i>
-                            <h4>Email:</h4>
-                            <p>info@kengamassive.co.ke</p>
-                        </div>
-
-                        <div class="phone">
-                            <i class="icofont-phone"></i>
-                            <h4>Call:</h4>
-                            <p>+254 774219492</p>
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-delay="100">
-
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                        <div class="row">
-                            <div class="col-md-6 form-group">
-                                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name"
-                                       data-rule="minlen:4" data-msg="Please enter at least 4 chars"/>
-                                <div class="validate"></div>
-                            </div>
-                            <div class="col-md-6 form-group mt-3 mt-md-0">
-                                <input type="email" class="form-control" name="email" id="email"
-                                       placeholder="Your Email" data-rule="email"
-                                       data-msg="Please enter a valid email"/>
-                                <div class="validate"></div>
-                            </div>
-                        </div>
-                        <div class="form-group mt-3">
-                            <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject"
-                                   data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject"/>
-                            <div class="validate"></div>
-                        </div>
-                        <div class="form-group mt-3">
-                            <textarea class="form-control" name="message" rows="5" data-rule="required"
-                                      data-msg="Please write something for us" placeholder="Message"></textarea>
-                            <div class="validate"></div>
-                        </div>
-                        <div class="mb-3">
-                            <div class="loading">Loading</div>
-                            <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
-                            <div class="form-group d-none">
-                                <input type="text" class="form-control" name="first_name">
-                                <div class="validate"></div>
-                            </div>
-                        </div>
-                        <div class="text-center">
-                            <button type="submit">Send Message</button>
-                        </div>
-                    </form>
-
-                </div>
-
-            </div>
-
-        </div>
-    </section><!-- End Contact Section -->
 
 </main><!-- End #main -->
 
