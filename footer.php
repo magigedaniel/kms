@@ -22,7 +22,7 @@
                         Kegonga Town<br>
                         P. O. Box 192-40413 Kehancha <br><br>
                         <strong>Phone:</strong> +254 774219492<br>
-                        <strong>Email:</strong> info[@]kengamassive.co.ke<br>
+                        <strong>Email:</strong> info@kengamassive.co.ke<br>
                     </p>
 
                 </div>
