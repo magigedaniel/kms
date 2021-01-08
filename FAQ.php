@@ -32,9 +32,9 @@ include 'navheader.php';
                             <p>
                                 Like any other co-operative society, anyone can become a member by virtue of buying
                                 shares and subscribing for a nominal deposit. The entry fee is ksh.500.<br><br>
-                                Payments are paid direct to the Sacco KCB account no. 1272706664 using:<br>
-                                i. Mpesa pay bill no <b>522522</b> followed by account number <b>1272706664</b> and amount or<br>
-                                 ii. Direct cash deposit into the account<br>
+                                Payments are paid direct to the Sacco KCB account no. <b>1272706664</b> using:<br>
+                                i. Mpesa pay bill no <b>522522</b> followed by account number <b>1272706664</b> and amount OR<br>
+                                ii. Direct cash deposit into the account<br>
                                 iii. Bank transfer into the account<br>
 
                             </p>

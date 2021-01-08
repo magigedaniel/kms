@@ -157,7 +157,7 @@ include 'navheader.php';
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact Us</h2>
+          <h3 STYLE="color: #0a53be">CONTACT US</h3>
         </div>
 
         <div class="" data-aos="fade-left" data-aos-delay="100">

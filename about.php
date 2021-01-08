@@ -76,25 +76,6 @@ include 'navheader.php';
               The highest decision making organ of the Sacco is the Annual General Meeting (AGM) which elects seven (7) officials from amongst the members to sit in the Board of Directors and an oversight (Supervisory) Committee of three (3) members. The board is the governing body of the Sacco and includes the Chairman, Vice chairman, Treasurer and Honorary Secretary who are elected by the board from amongst the members of the board. Members of the board hold office for a period of three (3) years with one-third of the board members retiring every year but are eligible for re-election. There is a Nominating Committee to vet and clear the prospective candidates for elections.
               <br> <br>The BOD operates through specialized sub-committees responsible for various society activities as under:-
           </p>
-          <h4 style="color: #0a53be">
-              SUPERVISORY COMMITTEE
-          </h4>
-          <p>
-              i.	Range Mwita<br>
-              ii.	Zachary Masinyo<br>
-              iii.	Eunice Chagoche<br>
-          </p>
-          <p>
-              The Supervisory Committee consists of three members who must not be employees of the Society's or serving on the Management Committee or any other Committee of the Society.<br><br>
-              The Supervisory Committee is responsible for the Society's compliance and internal control and oversight. It is also responsible for the truth and accuracy of the Society's financial condition, and for making sure that the Society's administrative practices and procedures are adequate to safeguard the members' and the Society's rights and interest.
-          </p>
-          <p>
-              The supervisory committee counter checks the effectiveness of the society’s internal controls through:-<br>
-              • Verification of all transactions of the Sacco society<br>
-              • Writing periodic report to be tabled at board meetings<br>
-              • Presenting its reports to general meeting<br>
-          </p>
-
 
           <h3 style="color: #0a53be">
               Committees of the Board of directors
@@ -145,7 +126,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/masaga1.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/masaga2.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -251,33 +232,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/range1.jpg" alt="" class="img-fluid">
-                              </div>
-
-                              <h2 class="entry-title">
-                                  Range Mwita
-                              </h2>
-
-                              <div class="entry-meta">
-                                  <h4 class="d-flex align-items-center">Supervisory Committee</h4>
-                                  </ul>
-                              </div>
-
-                              <div class="entry-content">
-                                  <p>
-                                      Range Mwita is a program management professional, with commendable working experience in the NGO sector in Kenya. Currently, Range serves as the Deputy Executive Director and Head of Programs at the Centre for Multiparty Democracy (CMD-Kenya). His expertise is in democratic governance, socio-economic development issues, research and capacity building of communities and groups. Range holds a Master of Arts (Sociology) from the University of Nairobi. He also holds a Diploma in Project Management from Nairobi Aviation College. He is a certified Monitoring and Evaluation professional from the Kenya Institute of Management (KIM).
-
-                                  </p>
-                              </div>
-
-                          </article>
-                      </div>
-
-                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-                          <article class="entry">
-
-                              <div class="entry-img">
-                                  <img src="assets/img/julius1.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/julius2.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -304,35 +259,7 @@ include 'navheader.php';
                           <article class="entry">
 
                               <div class="entry-img">
-                                  <img src="assets/img/robert1.jpg" alt="" class="img-fluid">
-                              </div>
-
-                              <h2 class="entry-title">
-                                  Robert Boyi
-                              </h2>
-
-                              <div class="entry-meta">
-                                  <h4 class="d-flex align-items-center">Director</h4>
-                                  </ul>
-                              </div>
-
-                              <div class="entry-content">
-                                  <p>
-                                      Mr. Robert boyi is a professional administrator with over six (6) years experience in procurement and supply chain management.
-                                      He holds a diploma in purchasing and supplies management from the school of business and economics of Mt. Kenya University.
-                                      He currently works in the manufacturing sector as procurement assistant manager.
-
-                                  </p>
-                              </div>
-
-                          </article>
-                      </div>
-
-                      <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
-                          <article class="entry">
-
-                              <div class="entry-img">
-                                  <img src="assets/img/nyangi1.jpg" alt="" class="img-fluid">
+                                  <img src="assets/img/nyangi2.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
@@ -357,28 +284,133 @@ include 'navheader.php';
                       <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
                           <article class="entry">
 
-                              <div class="entry-img">
-                                  <img src="assets/img/zachary1.jpg" alt="" class="img-fluid">
+                              <div class="entry-im">
+                                  <img src="assets/img/robert1.jpg" alt="" class="img-fluid">
                               </div>
 
                               <h2 class="entry-title">
-                                  Mr Zachary Masinyo
+                                  Robert Boyi
                               </h2>
 
                               <div class="entry-meta">
-                                  <h4 class="d-flex align-items-center">Member</h4>
+                                  <h4 class="d-flex align-items-center">Director</h4>
                                   </ul>
                               </div>
 
                               <div class="entry-content">
                                   <p>
-                                      Mr Zachary Masinyo is an experienced leader who has served the society in many areas including school administration and church administration. He holds a diploma in education from the East African University( TEU). He has served as a secretary to the Church Board for more than six years and he is currently a teacher and an administrator.
-
+                                      Mr. Robert boyi is a professional administrator with over six (6) years experience in procurement and supply chain management.
+                                      He holds a diploma in purchasing and supplies management from the school of business and economics of Mt. Kenya University.
+                                      He currently works in the manufacturing sector as procurement assistant manager.
                                   </p>
                               </div>
 
                           </article>
                       </div>
+              </div>
+          </section>
+
+                      <h4 style="color: #0a53be">
+                          SUPERVISORY COMMITTEE
+                      </h4>
+
+                      <p>
+                          The Supervisory Committee consists of three members who must not be employees of the Society's or serving on the Management Committee or any other Committee of the Society.<br><br>
+                          The Supervisory Committee is responsible for the Society's compliance and internal control and oversight. It is also responsible for the truth and accuracy of the Society's financial condition, and for making sure that the Society's administrative practices and procedures are adequate to safeguard the members' and the Society's rights and interest.
+                      </p>
+          <p>
+              i.	Range Mwita<br>
+              ii.	Zachary Masinyo<br>
+              iii.	Eunice Chagoche<br>
+          </p>
+                      <p>
+                          The supervisory committee counter checks the effectiveness of the society’s internal controls through:-<br>
+                          • Verification of all transactions of the Sacco society<br>
+                          • Writing periodic report to be tabled at board meetings<br>
+                          • Presenting its reports to general meeting<br>
+                      </p>
+          <section class="blog" id="blog">
+              <div class="container">
+
+          <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+              <article class="entry">
+
+                  <div class="entry-img">
+                      <img src="assets/img/range1.jpg" alt="" class="img-fluid">
+                  </div>
+
+                  <h2 class="entry-title">
+                      Range Mwita
+                  </h2>
+
+                  <div class="entry-meta">
+                      <h4 class="d-flex align-items-center">Supervisory Committee</h4>
+                      </ul>
+                  </div>
+
+                  <div class="entry-content">
+                      <p>
+                          Range Mwita is a program management professional, with commendable working experience in the NGO sector in Kenya. Currently, Range serves as the Deputy Executive Director and Head of Programs at the Centre for Multiparty Democracy (CMD-Kenya). His expertise is in democratic governance, socio-economic development issues, research and capacity building of communities and groups. Range holds a Master of Arts (Sociology) from the University of Nairobi. He also holds a Diploma in Project Management from Nairobi Aviation College. He is a certified Monitoring and Evaluation professional from the Kenya Institute of Management (KIM).
+
+                      </p>
+                  </div>
+
+              </article>
+          </div>
+
+          <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up" class="container">
+              <article class="entry">
+
+                  <div class="entry-img">
+                      <img src="assets/img/zachary1.jpg" alt="" class="img-fluid">
+                  </div>
+
+                  <h2 class="entry-title">
+                      Mr Zachary Masinyo
+                  </h2>
+
+                  <div class="entry-meta">
+                      <h4 class="d-flex align-items-center">Member</h4>
+                      </ul>
+                  </div>
+
+                  <div class="entry-content">
+                      <p>
+                          Mr Zachary Masinyo is an experienced leader who has served the society in many areas including school administration and church administration. He holds a diploma in education from the East African University( TEU). He has served as a secretary to the Church Board for more than six years and he is currently a teacher and an administrator.
+
+                      </p>
+                  </div>
+
+              </article>
+          </div>
+
+          <div class="col-lg-4  col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+              <article class="entry">
+
+                  <div class="entry-img">
+                      <img src="assets/img/robi1.jpg" alt="" class="img-fluid">
+                  </div>
+
+                  <h2 class="entry-title">
+                      Range Mwita
+                  </h2>
+
+                  <div class="entry-meta">
+                      <h4 class="d-flex align-items-center">Supervisory Committee</h4>
+                      </ul>
+                  </div>
+
+                  <div class="entry-content">
+                      <p>
+                          Range Mwita is a program management professional, with commendable working experience in the NGO sector in Kenya. Currently, Range serves as the Deputy Executive Director and Head of Programs at the Centre for Multiparty Democracy (CMD-Kenya). His expertise is in democratic governance, socio-economic development issues, research and capacity building of communities and groups. Range holds a Master of Arts (Sociology) from the University of Nairobi. He also holds a Diploma in Project Management from Nairobi Aviation College. He is a certified Monitoring and Evaluation professional from the Kenya Institute of Management (KIM).
+
+                      </p>
+                  </div>
+
+              </article>
+          </div>
+              </div>
+          </section>
 
 
                       <h3 style="color: #0a53be">

@@ -12,6 +12,7 @@
                         <li><i class="bx bx-chevron-right"></i> <a href="service.php">Services</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="#">Product and services</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="faq.php">FAQ</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="faq.php">Payment Details</a></li>
                     </ul>
                 </div>
 
@@ -22,7 +23,8 @@
                         Kegonga Town<br>
                         P. O. Box 192-40413 Kehancha <br><br>
                         <strong>Phone:</strong> +254 774219492<br>
-                        <strong>Email:</strong> info@kengamassive.co.ke<br>
+                        <strong>Email:</strong> info@kengamassive.co.ke OR<br>
+                        <strong>Email:</strong> kengamassive@gmail.com
                     </p>
 
                 </div>
