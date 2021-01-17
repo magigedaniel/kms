@@ -127,14 +127,7 @@
         </div>
     </aside>
     <!--sidebar end-->
-    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
-    <script>
 
-        $(document).ready(function() {
-            $('#example').DataTable();
-        } );
-    </script>
     <!--main content start-->
     <section id="main-content">
         <section class="wrapper">
@@ -150,38 +143,29 @@
             </div>
             <?php
             require_once "db_config.php";
-            $query="select id,page_name from pages";
+            $id = $_GET['id'];
+            $query="select id, content from pages where id=$id";
             $result=mysqli_query($con,$query);
+            //var_dump($result);
+
+            if ($result){
+            while ($row = mysqli_fetch_assoc($result)) {
             ?>
 
         </section>
         <!--main content end-->
-        <table id="example" class="display" style="width:100%">
-            <thead>
-            <tr>
-                <th>Page Name</th>
-                <th>Action</th>
-            </tr>
-            </thead>
-            <tbody>
-            <?php
-            if ($result) {
-                // Fetch one and one row
-                while ($row = $result->fetch_assoc()) {
-                    ?>
+        <form method="post" action="config.php">
+            <input name="id" id="id" type="text" hidden  value="<?php echo $id;?>"/>
+            <textarea id="content" name="content" ><?php echo $row['content'];?></textarea ><br><br>
+            <button type="submit" class="btn btn-primary" value="Save Page">Save</button>
+        </form>
 
-                    <tr>
-                        <td><?php echo $row['page_name'] ; ?></td>
-                        <td><a href="edit_page.php/<?php echo $row['id'] ;?>">Click to Edit</a></td>
-                    </tr>
-                    <?php
-                }
-                mysqli_free_result($result);
-            }
-            ?>
-            </tbody>
-        </table>
     </section>
+    <?php
+    }
+    mysqli_free_result($result);
+    }
+    ?>
     <!-- container section start -->
 
     <!-- javascripts -->
