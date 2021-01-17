@@ -478,7 +478,7 @@ include 'navheader.php';
           </i>
           <p>
               New members pay an entry fee of ksh. 500 and minimum monthly contributions of ksh.1100 for employed people and minimum weekly contribution of ksh. 200 for informal sector workers
-             <br><br> These deposits may be used as collateral against borrowings from the Society and shall only be refunded when a member withdraws from membership and provided the member has fully repaid all his debts and is free from guarantee. Deposits may however be transferable from one deposit account to another provided the transaction does not contravene the Savings policy.
+             <br><br>These deposits may be used as collateral against borrowings from the Society and shall only be refunded when a member withdraws from membership and provided the member has fully repaid all his debts and is free from guarantee. Deposits may however be transferable from one deposit account to another provided the transaction does not contravene the Savings policy.
               Non-withdrawable deposits shall be contributed on a monthly basis. Non-withdrawable deposits shall be refundable within sixty days after receiving a written notification from the member.
               Interest on deposits shall be paid at a rate that shall be determined by the board at the end of the year after audit has been completed.
           </p>
