@@ -157,7 +157,7 @@
         <form method="post" action="config.php">
             <input name="id" id="id" type="text" hidden  value="<?php echo $id;?>"/>
             <textarea id="content" name="content" ><?php echo $row['content'];?></textarea ><br><br>
-            <button type="submit" class="btn btn-primary" value="Save Page">Save</button>
+            <button type="submit" class="btn btn-primary" value="savePage">Save Page</button>
         </form>
 
     </section>
