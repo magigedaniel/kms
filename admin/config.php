@@ -1,21 +1,15 @@
 <?php
-        $page_name = $_POST['page_name'];
-        $page_label = $_POST['page_label'];
-        $content = $_POST['content'];          
+$link = mysqli_connect("localhost", "root", "", "kms");
 
-                $conn  = mysqli_connect("localhost", "root", "", "ken");
+if (!$link) {
+    echo "Error: Unable to connect to MySQL." . PHP_EOL;
+    echo "Debugging errno: " . mysqli_connect_errno() . PHP_EOL;
+    echo "Debugging error: " . mysqli_connect_error() . PHP_EOL;
+    exit;
+}
 
-                if ($conn ->connect_error){
-                    echo "DB connection error";
-                        # code...
-                        //die('connection error :'.$conn->connect_error);
-                }else{
-                        $data = $conn -> prepare("insert into pages(page_name,page_label, content) values (?,?,?)");
-                        $data -> bind_param("sss", $page_name, $page_label, $content);
-                        $data -> execute();
-                        echo "Message sent successfully";
-                        header("location: ./response.html");
-                        $data ->close();
-                        $conn ->close();
-                }
+//echo "Success: A proper connection to MySQL was made! The my_db database is great." . PHP_EOL;
+//echo "Host information: " . mysqli_get_host_info($link) . PHP_EOL;
+
+
 ?>

@@ -13,6 +13,7 @@
                         <li><i class="bx bx-chevron-right"></i> <a href="#">Product and services</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="faq.php">FAQ</a></li>
                         <li><i class="bx bx-chevron-right"></i> <a href="faq.php">Payment Details</a></li>
+                        <li><i class="bx bx-chevron-right"></i> <a href="admin/login.php">Admin Login</a></li>
                     </ul>
                 </div>
 

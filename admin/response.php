@@ -1,6 +1,7 @@
 <?php
-//Put your php code here
+session_start();
 ?>
+
 <head>
 <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js"></script>
@@ -16,7 +17,7 @@
 
     
   <p class="lead">
-    <a class="btn btn-primary btn-sm" href="admin.php" role="button">Back to Home page</a>
+    <a class="btn btn-primary btn-sm" href="index.php" role="button">Back to Home page</a>
   </p>
     
     <hr>
