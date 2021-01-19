@@ -31,7 +31,10 @@
                     <ul class="dropdown-menu extended logout">
                         <div class="log-arrow-up"></div>
                         <li>
-                            <a href="login.php"><i class="icon_key_alt"></i> Log Out</a>
+                    <div class="pull-center info">
+                <p><a href="logout.php" title="Click To Logout"> Logout</a></p>
+                <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+                     </div>
                         </li>
                     </ul>
                 </li>

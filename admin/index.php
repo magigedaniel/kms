@@ -13,28 +13,30 @@ session_start();
     require_once 'config.php';
 
     if ($_POST) {
-        $username = $_POST['username'];
+        $email = $_POST['email'];
         $password = $_POST['password'];
-        $sql = "select *from users where username='$username' and password='$password'";
+        $password_encrypt = MD5($password);
+        $sql = "select *from users where email='$email' and password='$password_encrypt'";
         $result = $link->query($sql);
         if ($result->num_rows > 0) {
-            $_SESSION['username'] = $username;
+            $_SESSION['email'] = $email;
             // echo 'Success';
             //exit();
         } else {
             // echo 'failed';
 
-            header("Location: login.php?id=3"); /* Redirect browser */
+            header("Location: login.php?id=1"); /* Redirect browser */
 
             /* Make sure that code below does not get executed when we redirect. */
             exit;
 
         }
 
+
     } else {
 
 
-        if (!$_SESSION['username']) {
+        if (!$_SESSION['email']) {
             header("Location: login.php?id=1"); /* Redirect browser */
             /* Make sure that code below does not get executed when we redirect. */
             exit;
@@ -46,10 +48,10 @@ session_start();
 
     <?php
 include ('header.php');
-?>
+    ?>
+
 </head>
 
-  <!-- container section start -->
   <?php
   include ('sidebar.php');
   ?>
